@@ -1,0 +1,113 @@
+/* begin Bauer Bodini font converted */
+
+@font-face {
+  font-family: 'Bodoni Bold';
+  font-style: normal;
+  font-weight: 700;
+  src : url('../fonts/Bodoni/BodonBTBol.eot');
+  src : local('Bodoni Bold'), local('BodonBTBol'),
+        url('../fonts/Bodoni/BodonBTBol.eot?#iefix') format('eot'),
+        url('../fonts/Bodoni/BodonBTBol.woff2') format('woff2'),
+        url('../fonts/Bodoni/BodonBTBol.woff') format('woff'),
+        url('../fonts/Bodoni/BodonBTBol.ttf') format('truetype'),
+        url('../fonts/Bodoni/BodonBTBol.svg#BodonBTBol') format('svg');
+}
+@font-face {
+  font-family: 'Bodoni Bold Italic';
+  font-style: normal;
+  font-weight: 400;
+  src : url('../fonts/Bodoni/BodonBTBolIta.eot');
+  src : local('Bodoni Bold Italic'), local('BodonBTBolIta'),
+        url('../fonts/Bodoni/BodonBTBolIta.eot?#iefix') format('eot'),
+        url('../fonts/Bodoni/BodonBTBolIta.woff2') format('woff2'),
+        url('../fonts/Bodoni/BodonBTBolIta.woff') format('woff'),
+        url('../fonts/Bodoni/BodonBTBolIta.ttf') format('truetype'),
+        url('../fonts/Bodoni/BodonBTBolIta.svg#BodonBTBolIta') format('svg');
+        font-style: normal;
+        font-variant: normal;
+        font-stretch: normal;
+        font-display: swap;
+}
+@font-face {
+  font-family: 'Bodoni Roman';
+  font-style: normal;
+  font-weight: 400;
+  src : url('../fonts/Bodoni/BodonBTRom.eot');
+  src : local('Bodoni'), local('BodonBTRom'),
+        url('../fonts/Bodoni/BodonBTRom.eot?#iefix') format('eot'),
+        url('../fonts/Bodoni/BodonBTRom.woff2') format('woff2'),
+        url('../fonts/Bodoni/BodonBTRom.woff') format('woff'),
+        url('../fonts/Bodoni/BodonBTRom.ttf') format('truetype'),
+        url('../fonts/Bodoni/BodonBTRom.svg#BodonBTRom') format('svg');
+}
+@font-face {
+  font-family: 'Bodoni Italic';
+  font-style: normal;
+  font-weight: 400;
+  src : url('../fonts/Bodoni/BodonBTIta.eot');
+  src : local('Bodoni Italic'), local('BodonBTIta'),
+        url('../fonts/Bodoni/BodonBTIta.eot?#iefix') format('eot'),
+        url('../fonts/Bodoni/BodonBTIta.woff2') format('woff2'),
+        url('../fonts/Bodoni/BodonBTIta.woff') format('woff'),
+        url('../fonts/Bodoni/BodonBTIta.ttf') format('truetype'),
+        url('../fonts/Bodoni/BodonBTIta.svg#BodonBTIta') format('svg');
+}
+/* end Bauer Bodoni converted font*/
+/* begin Bauer Bodoni converted font */
+.bauerBodoni {
+  font-family: 'Bodoni Roman';
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: .025em;
+  word-spacing: .03em;
+}
+
+.bauerBodoniItalic {
+  font-family: 'Bodoni Italic';
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: .025em;
+  word-spacing: .03em;
+}
+.bauerBodoniBold {
+  font-family: 'Bodoni Bold';
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: .02em;
+  word-spacing: .03em;
+}
+.bauerBodoniBoldItalic {
+  font-family: 'Bodoni Bold Italic';
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: .02em;
+  word-spacing: .03em;
+}
+/* end Bauer Bodoni converted font */
+body{
+  font-family: 'Bodoni Roman';
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: .025em;
+  word-spacing: .03em;
+  background-color: rgba(252,252,252,1.0);
+  color: rgba(88, 46, 30, 1.5);
+  width:100vw;
+  height: 100vh;
+  background-image: url("../img/iceCreamCones.jpg");
+  background-position: bottom 0px right 0px;
+  background-repeat: no-repeat;
+  background-size: 60%;
+  background-attachment: fixed;
+}
+h1 {
+  font-size:1.75em;
+  font-family: 'Bodoni Bold';
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: .02em;
+  word-spacing: .03em;
+}
+.container {
+  padding-top:1em;
+}
