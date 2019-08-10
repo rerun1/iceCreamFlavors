@@ -5,6 +5,8 @@
 ## Description
 Web page lists america's favorite ice cream flavors. Rather than writing the flavors in the HTML, a JavaScript loop inserts the flavors into the page from an array.
 
+Also added a full list of 60 ice cream flavors from wikipedia and created a list of my own favorites. Created arrays from initial wiki list by pushing out the index place in brackets.
+
 <br>
 
 ## Objectives
@@ -22,7 +24,7 @@ All previous objectives have been met.
 ## Current Screenshot for Reference
 <br>
 
-![alt text](https://raw.githubusercontent.com/rerun1/favoriteThings/master/img/screenShot8-9-19.png)
+![alt text](https://raw.githubusercontent.com/rerun1/iceCreamFlavors/master/img/screenShot8-9-19.png)
 <br>
 <br>
 
